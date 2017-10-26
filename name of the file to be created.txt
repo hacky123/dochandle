@@ -1,5 +1,3 @@
 overall software test report
 
 overall softare test specification
-
-cpu card ic's pin open significance test
